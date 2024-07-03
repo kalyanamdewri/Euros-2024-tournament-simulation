@@ -6,7 +6,7 @@
 
 Welcome to the **EUROS Tournament Simulation** project! This project uses Elo ratings to simulate and predict the outcome probabilities of the tournament. The simulation is run using Python and NumPy.
 
-<img src="https://via.placeholder.com/800x400.png?text=Football+Tournament+Simulation" alt="Football Tournament Simulation" style="width:100%; height:auto;">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/UEFA_Euro_2020_Logo.svg/1200px-UEFA_Euro_2020_Logo.svg.png)">
 
 ## 📊 Overview
 
@@ -48,23 +48,14 @@ The script will output the probabilities of each team winning the tournament.
     'Netherlands': 0.1126,
     'Türkiye': 0.0704
 }
+
 ## 🧩 Project Structure
+
 football-tournament-simulation/
 ├── tournament_simulation.py  # Main simulation script
 ├── README.md                 # Project documentation
 └── requirements.txt          # Required dependencies
 
-## 🎨 Visual Representation
-
-Here's a visual representation of the simulation process:
-
-+-----------+      +-------------+      +-------------+
-| Quarter-  |      | Semi-       |      | Final       |
-| Finals    |----->| Finals      |----->| Match       |
-+-----------+      +-------------+      +-------------+
-## 🤝 Contributing
-
-Contributions are welcome! Please open an issue or submit a pull request for any improvements or bug fixes.
 
 <p align="center">
     <img src="https://via.placeholder.com/100x100.png?text=GitHub" alt="GitHub Logo" style="border-radius:50%;">
