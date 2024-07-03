@@ -6,7 +6,7 @@
 
 Welcome to the **EUROS Tournament Simulation** project! This project uses Elo ratings to simulate and predict the outcome probabilities of the tournament. The simulation is run using Python and NumPy.
 
-![Football Tournament Simulation](https://upload.wikimedia.org/wikipedia/en/8/86/UEFA_Euro_2024_Logo.svg)
+![Football Tournament Simulation](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/UEFA_Euro_2024_Logo.svg/1200px-UEFA_Euro_2024_Logo.svg.png)
 
 
 ## 📊 Overview
