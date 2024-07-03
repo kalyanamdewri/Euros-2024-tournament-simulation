@@ -37,10 +37,9 @@ python tournament_simulation.py
 View the output probabilities:
 The script will output the probabilities of each team winning the tournament.
 
-##📈 Example Output
+## 📈 Example Output
 
-{
-    'Spain': 0.2354,
+{   'Spain': 0.2354,
     'Germany': 0.1335,
     'Portugal': 0.096,
     'France': 0.095,
@@ -49,12 +48,13 @@ The script will output the probabilities of each team winning the tournament.
     'Netherlands': 0.1126,
     'Türkiye': 0.0704
 }
-##🧩 Project Structure
+## 🧩 Project Structure
 football-tournament-simulation/
 ├── tournament_simulation.py  # Main simulation script
 ├── README.md                 # Project documentation
 └── requirements.txt          # Required dependencies
-##🎨 Visual Representation
+
+## 🎨 Visual Representation
 
 Here's a visual representation of the simulation process:
 
@@ -62,7 +62,7 @@ Here's a visual representation of the simulation process:
 | Quarter-  |      | Semi-       |      | Final       |
 | Finals    |----->| Finals      |----->| Match       |
 +-----------+      +-------------+      +-------------+
-##🤝 Contributing
+## 🤝 Contributing
 
 Contributions are welcome! Please open an issue or submit a pull request for any improvements or bug fixes.
 
